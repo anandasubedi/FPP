@@ -1,4 +1,4 @@
-package program3_1;
+package prog3_1;
 
 import java.util.Date;
 import java.util.GregorianCalendar;

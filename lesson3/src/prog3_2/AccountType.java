@@ -1,4 +1,4 @@
-package prog3_1;
+package prog3_2;
 
 public enum AccountType {
 	CHECKING,

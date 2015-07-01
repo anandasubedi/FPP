@@ -1,7 +1,8 @@
-package prog3_1;
+package prog5_1;
 
 public enum AccountType {
 	CHECKING,
-	SAVINGS,
+	SAVINGS, 
 	RETIREMENT
+
 }
